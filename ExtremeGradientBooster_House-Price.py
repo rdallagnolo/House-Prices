@@ -1,7 +1,7 @@
 
 # checking files in my project's directory
 import os
-for dirname, _, filenames in os.walk('/home/pops/DataScience/my_projects/kaggle/House_Prices'):
+for dirname, _, filenames in os.walk('/kaggle/input'):
     for filename in filenames:
         print(os.path.join(dirname, filename))
 
