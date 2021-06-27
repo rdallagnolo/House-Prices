@@ -1,5 +1,5 @@
 # House-Prices
-My XGBoost ML code for the classic kaggle competition: https://www.kaggle.com/c/home-data-for-ml-course.
+My XGBoost ML code for the classic kaggle competition: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 In the "data" directory it is available the final preprocessed dataset used for the ML code. 
 
