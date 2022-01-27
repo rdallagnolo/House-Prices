@@ -1,4 +1,7 @@
-# House-Prices
+# Ames house prices project
+<p align="center">
+<img src="images/houses.jpeg">
+</p>
 
 The goal of this project is to develop a machine learning regressor able to predict the final price of a house using 79 explanatory variables of the Ames Housing dataset.
 
